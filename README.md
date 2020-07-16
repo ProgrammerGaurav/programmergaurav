@@ -7,3 +7,6 @@ I Love Coding.
 
 # Contact Me
 <a href="https://instagram.com/programmergaurav"><img src="https://cdn.worldvectorlogo.com/logos/instagram-2016.svg" width=50></a>
+<a href="https://instagram.com/programmergaurav"><img src="https://cdn.worldvectorlogo.com/logos/instagram-2016.svg" width=50></a>
+<a href="https://instagram.com/programmergaurav"><img src="https://cdn.worldvectorlogo.com/logos/instagram-2016.svg" width=50></a>
+<a href="https://instagram.com/programmergaurav"><img src="https://cdn.worldvectorlogo.com/logos/instagram-2016.svg" width=50></a>
