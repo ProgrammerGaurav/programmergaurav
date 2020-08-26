@@ -4,8 +4,10 @@ Hi, I am Gaurav.
 I am a Full Stack Developer.
 <br>
 I Love Coding.
+<br>
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=programmergaurav&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=programmergaurav)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=programmergaurav)
 
 # My Work
 -[Portfolio](https://programmergaurav.me)
