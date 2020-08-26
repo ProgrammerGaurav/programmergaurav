@@ -7,10 +7,7 @@ I Love Coding.
 <br />
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=programmergaurav&show_icons=true&title_color=fff&theme=radical)
-<br />
-<br />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=programmergaurav)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=programmergaurav&layout=compact&theme=radical)
 
 # My Work
 -[Portfolio](https://programmergaurav.me)
