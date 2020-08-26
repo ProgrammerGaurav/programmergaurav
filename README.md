@@ -5,6 +5,7 @@ I am a Full Stack Developer.
 <br>
 I Love Coding.
 # My Skills
+![github stats](https://github-readme-stats.vercel.app/api?username=Isha2103&show_icons=true)
 <img src="https://programmergaurav.me/img/html-5.svg" height="100"/> <img src="https://programmergaurav.me/img/css3.svg" height="100"/> <img src="https://programmergaurav.me/img/sass.svg" height="100"/> <img src="https://programmergaurav.me/img/bootstrap.svg" height="100"/> <img src="https://programmergaurav.me/img/js.svg" height="100"/> <img src="https://programmergaurav.me/img/jquery.svg" height="100"/> <img src="https://programmergaurav.me/img/django.svg" height="100"/>
 
 # My Work
